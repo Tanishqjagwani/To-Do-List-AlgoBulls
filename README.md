@@ -1,15 +1,10 @@
-<h1 align="center">KanBoard - A Notion Like KanBan App</h1>
-<br>
+<h1 align="center">To-Do-List</h1>
 
-![image](public/Screenshot.png)
 
-<br>
-
-## Overview
 
 An application created using **ReactJS** and **MUI**.
 
-The application is a Notion inspired kanban board, which lets the user set tasks, and manage routine or projects using the kanban approach. Its User Interface is inspired from Notion (a popular productivity app). KanBoard supports features all CRUD operations i.e. Add, Remove, Update tasks.
+The application is a Notion inspired kanban board, which lets the user set tasks, and manage routine or projects using the to-do-list approach. Its User Interface is inspired from Notion (a popular productivity app). KanBoard supports features all CRUD operations i.e. Add, Remove, Update tasks.
 
 This project utilizes React-Beautiful-Dnd package for the implementation of Drag & Drop functionality in the kanban Board. This library if built by Atlassian for implementing the same feature in their products like Jira and Trello.
 
@@ -23,11 +18,11 @@ _Note : This application is made as part of internship selection process at AirT
 
 ## Live URL
 
-The application is hosted on Netlify. Please find the link to it below.
 
-<h3><a href="https://notion-kanboard-mukul.netlify.app/">Demo : See it Live</a></h3>
 
-<br>
+
+
+
 
 ## Tech Stack
 
@@ -53,8 +48,6 @@ The application is hosted on Netlify. Please find the link to it below.
 
 ## Page load time
 
-I used Lighthouse Chrome DevTools to check application performance.
-![image](public/performance.png)
 
 To improve accessibility score, We can optimize the components and implement ARIA based semantics which can improve the accessibility for the app.
 
